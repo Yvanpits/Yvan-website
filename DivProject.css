@@ -1,0 +1,135 @@
+div.static {
+    display: block;
+    background-color: rgb(105, 248, 248);
+    height: 850px;
+    width: 100%;
+    padding: 20px;
+  }
+  .column {
+    width: 15%;
+    height: 50%; 
+    display: inline-block;
+    background-color: #0dbaff;
+    padding: 0;
+    margin-right: 50px;
+    border: 3px solid black;
+    padding-inline-start: 10;
+    margin: 5%;
+    text-align: center;
+    
+  }
+  .column2{
+      width: 15%;
+      height: 50%;
+      display: inline-block;
+      background-color: #0dbaff;
+      padding: 0;
+      margin-right: bottom;
+      border: 3px solid black;
+      padding-inline-start: 10;
+      margin: 4%;
+      text-align: center;
+  }
+  .column3{
+      width: 15%;
+      height: 50%;
+      display: inline-block;
+      background-color: #0dbaff;
+      padding: 0;
+      margin-right: 20px;
+      border: 3px solid black;
+      padding-inline-start: 10;
+      margin: 4%;
+      text-align: center;
+  }
+  .column4{
+      width: 15%;
+      height: 50%;
+      display: inline-block;
+      background-color: #0dbaff;
+      padding: 0;
+      margin-right: 20px;
+      border: 3px solid black;
+      padding-inline-start: 10;
+      margin: 4%;
+      text-align: center;
+  }
+  .aboutme{
+    border: 1px solid rgb(105, 248, 248);;
+    width: 30%;
+    height: 500px;
+    padding: 3%;
+  }
+  .aboutme1{
+    border: 1px solid rgb(105, 248, 248);;
+    width: 70%;
+    height: 520px;
+    padding: 3%;
+    float: right;
+    text-align: center;
+  }
+  .interest{
+    display: block;
+    border: 3px solid black;
+    height: 33%;
+    width: 100%;
+    float: right;
+    padding-left: 3%;
+    text-align: center;
+    font-size: large;
+  }
+  .interest1{
+    display: block;
+    border: 3px solid black;
+    height: 33%;
+    width: 100%;
+    float: right;
+    padding-left: 3%;
+    text-align: center;
+    font-size: large;
+  }
+  .interest2{
+    display: block;
+    border: 3px solid black;
+    height: 33%;
+    width: 100%;
+    float: right;
+    padding-left: 5%;
+    text-align: center;
+    font-size: large;
+  }
+  .gallery{
+    display: block;
+    border: 3px solid black;
+    height: 33%;
+    width: 100%;
+    float: right;
+    padding-left: 3%;
+    text-align: center;
+    font-size: large;
+  }
+  .gallery1{
+    display: block;
+    border: 3px solid black;
+    height: 33%;
+    width: 100%;
+    float: right;
+    padding-left: 3%;
+    text-align: center;
+    font-size: large;
+  }
+  .gallery2{
+    display: block;
+    border: 3px solid black;
+    height: 33%;
+    width: 100%;
+    float: right;
+    padding-left: 3%;
+    text-align: center;
+    font-size: large;
+  }
+ .project{
+  display: block;
+  margin: 0%;
+  padding: 3%;
+ }
