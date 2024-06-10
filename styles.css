@@ -22,7 +22,7 @@ header {
 .slideshow {
   display: flex;
   justify-content: center;
-  aspect-ratio: 30 / 20;
+  aspect-ratio: 30 / 9;
 }
 
 .slide {
